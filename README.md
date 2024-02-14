@@ -1,4 +1,11 @@
-AndroidTriviaFragment - solution code
+![GitHub repo size](https://img.shields.io/github/repo-size/juliosn/androidTriviaFragmentApp?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/juliosn/androidTriviaFragmentApp?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/juliosn/androidTriviaFragmentApp?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/androidTriviaFragmentApp?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/androidTriviaFragmentApp?style=for-the-badge)
+
+
+AndroidTriviaFragment - Solution Code
 =====================================
 
 This app is the solution code for Android Kotlin Fundamentals codelab 3.1:
